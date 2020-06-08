@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 46136aae462809341a9743f70ef2f9bf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dummy28
+    100004: Dummy27
+    100006: Dummy26
+    100008: Dummy29
+    100010: scanning_06
+    100012: scanning_05
+    100014: scanning_04
+    100016: scanning_03
+    100018: Dummy02
+    100020: obj_2
+    100022: Dummy25
+    100024: Dummy24
+    100026: Dummy23
+    100028: Dummy22
+    100030: Dummy21
+    100032: Dummy20
+    100034: Dummy19
+    100036: Dummy18
+    100038: Dummy17
+    100040: Dummy16
+    100042: Dummy15
+    100044: Dummy14
+    100046: obj_01
+    100048: Dummy13
+    100050: Dummy12
+    100052: Dummy11
+    100054: Dummy10
+    100056: Dummy09
+    100058: Dummy08
+    100060: Dummy07
+    100062: Dummy06
+    100064: Dummy05
+    100066: Dummy04
+    100068: Dummy03
+    100070: Dummy01
+    100072: obj_001
+    400000: //RootNode
+    400002: Dummy28
+    400004: Dummy27
+    400006: Dummy26
+    400008: Dummy29
+    400010: scanning_06
+    400012: scanning_05
+    400014: scanning_04
+    400016: scanning_03
+    400018: Dummy02
+    400020: obj_2
+    400022: Dummy25
+    400024: Dummy24
+    400026: Dummy23
+    400028: Dummy22
+    400030: Dummy21
+    400032: Dummy20
+    400034: Dummy19
+    400036: Dummy18
+    400038: Dummy17
+    400040: Dummy16
+    400042: Dummy15
+    400044: Dummy14
+    400046: obj_01
+    400048: Dummy13
+    400050: Dummy12
+    400052: Dummy11
+    400054: Dummy10
+    400056: Dummy09
+    400058: Dummy08
+    400060: Dummy07
+    400062: Dummy06
+    400064: Dummy05
+    400066: Dummy04
+    400068: Dummy03
+    400070: Dummy01
+    400072: obj_001
+    4300000: obj_001
+    4300002: obj_01
+    4300004: obj_2
+    4300006: scanning_03
+    4300008: scanning_04
+    4300010: scanning_05
+    4300012: scanning_06
+    7400000: Take 001
+    7400002: ani01
+    11100000: //RootNode
+    13700000: scanning_06
+    13700002: scanning_05
+    13700004: scanning_04
+    13700006: scanning_03
+    13700008: obj_2
+    13700010: obj_01
+    13700012: obj_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: ani01
+      takeName: 
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

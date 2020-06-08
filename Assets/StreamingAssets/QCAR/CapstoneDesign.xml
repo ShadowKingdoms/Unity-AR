@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Venus-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Uranus-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Sun-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Saturn-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Neptune-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Mercury-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Mars-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Jupiter-icon" size="150.000000 150.000000" />
+    <ImageTarget name="Earth-icon" size="150.000000 150.000000" />
+  </Tracking>
+</QCARConfig>
