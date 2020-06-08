@@ -72,13 +72,14 @@ public class Planet_Control : MonoBehaviour {
             float deltaMagnitudeDiff = (touchDeltaMag - prevTouchDeltaMag) * Time.deltaTime;
 
             gameObject.transform.localScale += new Vector3(deltaMagnitudeDiff * scaleFactor, deltaMagnitudeDiff * scaleFactor, deltaMagnitudeDiff * scaleFactor) * Time.deltaTime;
-              /*  float parentX, parentY, parentZ;
-
-               parentX = Mathf.Clamp(gameObject.transform.localScale.x, maxScale, minScale);
+              /*  
+				this is test code
+				float parentX, parentY, parentZ;
+               	parentX = Mathf.Clamp(gameObject.transform.localScale.x, maxScale, minScale);
                 parentY = Mathf.Clamp(gameObject.transform.localScale.y, maxScale, minScale);
                 parentZ = Mathf.Clamp(gameObject.transform.localScale.x, maxScale, minScale);
-
-                gameObject.transform.localScale = new Vector3(parentX, parentY, parentZ);*/
+                gameObject.transform.localScale = new Vector3(parentX, parentY, parentZ);
+			 */
        }
        
 
