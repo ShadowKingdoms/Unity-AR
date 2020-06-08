@@ -16,7 +16,7 @@ public class Planet_Control : MonoBehaviour {
     public bool activite_rotation;
     public GameObject tracker;
     
-    // Use this for initialization
+    // The Use this for initialization
     void Start () {
         activite_rotation = true;
         eulerRotation = Quaternion.Euler(new Vector3(0f, 0f, 0f));
