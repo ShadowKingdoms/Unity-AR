@@ -3,6 +3,12 @@
 프로젝트는 2015년 가을에 시작하였으며, 증강현실을 통해 생동감있게 태양계를 살펴볼 수 있는 어플리케이션입니다. 
 
 
+# 인게임 화면
+![pic1](https://user-images.githubusercontent.com/55690757/84865835-d8bb2780-b0b3-11ea-94af-7c99dfaf5492.png)
+![pic2](https://user-images.githubusercontent.com/55690757/84865839-d953be00-b0b3-11ea-9187-ea3a23e5ec50.png)
+![pic3](https://user-images.githubusercontent.com/55690757/84865845-da84eb00-b0b3-11ea-9f51-0175aff76689.png)
+
+
 # 사용 방법
 먼저 앱을 설치하고 "AR Target Image" 폴더에 있는 행성 사진을 카메라로 주사합니다.
 잠시 후 디스플레이에 3D 행성이 출력되면서, 해당 오브젝트와 상호작용이 가능한 형태가 됩니다. 
