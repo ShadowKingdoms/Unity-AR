@@ -20,5 +20,10 @@
 방학 때 인턴십을 하면서 배운 유니티 엔진과 Vuforia를 통해 이번에 직접 프로젝트를 하면서 3D 오브젝트의 구성과 조작 등에 대해 공부할 수 있었으며,
 증강현실 기술에 대해서도 많은 자료와 정보를 접할 수 있었던 프로젝트가 된 것 같습니다. 
 
-#영 상
+# 영 상
+[![Watch the video](https://user-images.githubusercontent.com/55690757/85987053-1a3ec180-ba28-11ea-88b9-fc342bc12120.JPG)](https://youtu.be/oZ-LzGQRnl0)
+
+
+
+
 
