@@ -21,7 +21,7 @@
 증강현실 기술에 대해서도 많은 자료와 정보를 접할 수 있었던 프로젝트가 된 것 같습니다. 
 
 # 영 상
-[![Watch the video](https://user-images.githubusercontent.com/55690757/85987053-1a3ec180-ba28-11ea-88b9-fc342bc12120.JPG)](https://youtu.be/oZ-LzGQRnl0)
+![mq2](https://user-images.githubusercontent.com/55690757/98575837-09b72580-22fd-11eb-8b32-f60ad726f1d1.jpg)(https://youtu.be/oZ-LzGQRnl0)
 
 
 
